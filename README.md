@@ -1,1 +1,1 @@
-# double-tap-earpiece
+# earpiece-on-demand
